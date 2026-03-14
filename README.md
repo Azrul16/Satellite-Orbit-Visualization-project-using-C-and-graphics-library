@@ -1,5 +1,7 @@
 # Satellite Orbit Visualization
 
+**[View on GitHub](https://github.com/Azrul16/Satellite-Orbit-Visualization-project-using-C-and-graphics-library)**
+
 **Course:** Computer Graphics and Image Processing Sessional  
 **Course Teacher:** Md Mahabubur Rahman  
 **Author:** Azrul Amaline
@@ -63,15 +65,15 @@ Headers used: `graphics.h`, `conio.h`, `math.h`, `dos.h`, `stdlib.h`, `time.h`, 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Satellite-Orbit-Visualization-project-using-C-anf-graphics-library.git
-cd "Satellite-Orbit-Visualization-project using C++ anf graphics library"
+git clone https://github.com/Azrul16/Satellite-Orbit-Visualization-project-using-C-and-graphics-library.git
+cd Satellite-Orbit-Visualization-project-using-C-and-graphics-library
 ```
 
 **Windows (PowerShell):**
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/Satellite-Orbit-Visualization-project-using-C-anf-graphics-library.git
-cd "Satellite-Orbit-Visualization-project using C++ anf graphics library"
+git clone https://github.com/Azrul16/Satellite-Orbit-Visualization-project-using-C-and-graphics-library.git
+cd Satellite-Orbit-Visualization-project-using-C-and-graphics-library
 ```
 
 ### Build & run from shell
@@ -103,7 +105,7 @@ g++ singleOrbit.cpp -o singleOrbit -lgraph
 ./singleOrbit
 ```
 
-**Note:** Replace `YOUR_USERNAME` with your GitHub username. Only one of the two programs should be built and run at a time (each has its own `main()`).
+**Note:** Only one of the two programs should be built and run at a time (each has its own `main()`).
 
 ## Project Structure
 
